@@ -1,0 +1,196 @@
+h3{
+    height:60px;
+    width:20%;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 2px;
+    padding-left: -20px;
+    padding-right: 10px;
+    font-style: italic;
+    padding-bottom:2px;
+}
+#one{
+    height: 30px;
+    width: 35%;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-left:;
+    margin-left: 15%;
+    margin-top:-85px;
+    margin-bottom: 50%;
+    position:left 20%;
+}
+.one{
+    color: black;
+}
+.two{
+    border: 5px solid red;
+    height:60px;
+    width:20%;
+    border-radius: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 55%;
+    margin-top: -540px;
+    font-style: italic;
+    text-align: center;
+
+   }
+   #circle{
+    width:400px;
+    height:400px;
+    border-radius: 400px;
+    background-color:aquamarine;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 1%;
+    vertical-align: middle;
+    border-color: 4px  solid green;
+   }
+   P{
+    text-size-adjust: 20px;
+    padding-bottom: 10%;
+    padding-left: 2%;
+    padding-top: 1%;
+   }
+   .box{
+    height: 750px;
+    width: 40%;
+    border: 5px solid red;
+    border-style: dashed;
+    margin-left: 50%;
+    margin-top: -600px;
+   }
+   h2{
+    background-color:white;
+    color: red;
+    text-align: center;
+   }
+   lable{
+    text-align:center;
+    color:red;
+    text-align: center;
+    margin-bottom: 25%;
+   }
+   label{
+    color: red;
+    background-color: white;
+   }
+   .three{
+    height: 30px;
+    width:30%;
+    border: 5px solid red;
+    margin-left: 32%;
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
+    font-style: italic;
+    padding-top: 5px;
+   }
+   .flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+    
+   }
+   .b{
+    text-align: right;
+    margin-left: 60px;
+    margin-top: 10%;
+   }
+   ul{
+    margin-top: 30%;
+    margin-left: -250px;
+    
+   }
+   #flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+    margin-left: 33%;
+    margin-top: -275px;
+   }
+   #flex-container-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+    margin-left: 66%;
+    margin-top: -275px;
+   }
+   #flex-container-2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+   }
+   #flex-container-3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+    margin-left: 33%;
+    margin-top: -275px;
+   }
+   #flex-container-4{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    height:250px;
+    width: 30%;
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10%;
+    margin-left: 66%;
+    margin-top: -275px;
+   }
+   .c{
+    text-align: center;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 10px;
+   }
+   h1{
+    text-align: center;
+   }
+   div{
+    border:5px solid green
+   }
+   li{
+    padding-left: 80px;
+    padding-right: 10px;
+   }
+   
